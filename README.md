@@ -29,4 +29,3 @@ A simple Sudoku game that generates puzzles and allows users to solve them. The 
 📂 Project Structure:
 
     main.c: Contains the logic for Sudoku puzzle generation, solving, validation, and user interaction.
-    Makefile: For compiling and running the project (if applicable).
